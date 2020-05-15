@@ -1,4 +1,9 @@
 
+div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 .df-wrap {
     padding: 0;
     margin: 0;
